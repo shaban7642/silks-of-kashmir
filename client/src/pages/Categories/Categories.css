@@ -1,0 +1,15 @@
+.create-btn {
+	background-color: transparent;
+	border: 1px #5d54a4 solid;
+	border-radius: 42px;
+	color: #5d54a4;
+}
+
+.create-btn:hover {
+	background-color: #5d54a4;
+	border: 1px #5d54a4 solid;
+}
+
+.row {
+	display: flex;
+}
